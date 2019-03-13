@@ -1,1 +1,12 @@
 /* You can add global styles to this file, and also import other style files */
+/* You can add global styles to this file, and also import other style files */
+table, td {
+    border: 1px solid black;
+    margin: 5px;
+}
+td {
+   width:28px;
+   max-height: 32px;
+   height: 30px;
+   padding: 2px;
+}
